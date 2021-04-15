@@ -19,5 +19,5 @@ The focus of our project is to understand the effects of the COVID-19 pandemic o
 * https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
-### Other datasets to incorporate 
-* COVID statistics 
+### Data Cleanup 
+![Data_cleanup](/desktop/data_cleanup.png)
