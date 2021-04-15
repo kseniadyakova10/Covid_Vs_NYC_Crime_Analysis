@@ -37,4 +37,4 @@ Our final analysis was made on rates of Covid-19 case, death and hospitalization
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
 ### Team Members
-* Ksenia * Pheobe * Cesar * Megan G. * Adriana
+* Ksenia Dyakova, Phoebe Yaheng Wu, Cesar Serrano, Megan Gebhart, Adriana Cieslak
