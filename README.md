@@ -28,7 +28,7 @@ In 2020, there is a big drop as far as the amount of crimes committed within bot
 ![2020 age group](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/age_group_2020.png?raw=true)
 
 ### Covid-19 vs Arrests analysis
-Our final analysis was made on rates of Covid-19 case, death and hospitalization count vs NYPD arrest count. We wanted to see if there was any kind of relationship between them. Although the analysis was only made for month of March, there was no relationship observed. So it was decided unnessassry to continue and move on.
+Our final analysis was made on rates of Covid-19 case, death and hospitalization count vs NYPD arrest count. We wanted to see if there was any kind of relationship between them. Although the analysis was only made for month of March, there was no relationship observed. So it was decided unnecessary to continue and move on.
 ![Covid vs Arrest](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/covid_vs_arrest.png?raw=true)
 
 ### Datasets explored:
@@ -37,8 +37,4 @@ Our final analysis was made on rates of Covid-19 case, death and hospitalization
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
 ### Team Members
-* Ksenia
-* Pheobe
-* Cesar
-* Megan G. 
-* Adriana
+* Ksenia * Pheobe * Cesar * Megan G. * Adriana
