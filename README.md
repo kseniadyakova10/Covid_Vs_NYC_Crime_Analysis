@@ -16,7 +16,11 @@ Three biggest files we worked with were NYPD Arrest Data Year to Date(2019 extra
 Starting focus was on months of March, April and May for 2019 and 2020. Obsdervation was made that some of the crimes of 2019 became much less popular in 2020 and vice versa.
 ![Top 15](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/top_15_crimes.png?raw=true)
 
-### Datasets to explored:
+### YOY % change in Crime Rate
+After observing some movement in top 15 crime analysis, we wanted to see if there is an overall change across all crimes and how big of a change, if any.
+![YOY change](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/change_crime_rate_yoy.png?raw=true)
+
+### Datasets explored:
 * https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg
 * https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
