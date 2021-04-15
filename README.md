@@ -20,6 +20,13 @@ Starting focus was on months of March, April and May for 2019 and 2020. Obsderva
 After observing some movement in top 15 crime analysis, we wanted to see if there is an overall change across all crimes and how big of a change, if any.
 ![YOY change](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/change_crime_rate_yoy.png?raw=true)
 
+### Age group analysis
+Focusing in on age groups of 18-24 and 25-44, assault, drugs and larceny were most common crimes of both age groups. However, there is a huge increase in 25-44 age group in year 2019.
+![2019 age group](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/age_group_2019.png?raw=true)
+
+In 2020, there is a big drop as far as the amount of crimes committed within both age groups. Although 25-44 are still in the lead. Also, it seemes that robbery became more popular among 18-24 year olds opposed to larceny among 25-44 year olds.
+![2020 age group](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/age_group_2020.png?raw=true)
+
 ### Datasets explored:
 * https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg
 * https://data.cityofnewyork.us/Social-Services/NYPD/fjn5-bxwg
