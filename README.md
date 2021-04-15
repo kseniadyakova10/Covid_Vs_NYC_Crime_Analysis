@@ -20,4 +20,4 @@ The focus of our project is to understand the effects of the COVID-19 pandemic o
 * https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
 
 ### Data Cleanup 
-![Data_cleanup](/desktop/data_cleanup.png)
+![Data_cleanup](https://github.com/kseniadyakova10/Covid_Vs_NYC_Crime_Project/blob/main/Images/data_cleanup.png?raw=true)
